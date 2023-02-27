@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data science on John Graham</title>
-    <link>https://uniquedivine.blog/tags/data-science/</link>
+    <link>https://Crohnos.github.io/tags/data-science/</link>
     <description>Recent content in data science on John Graham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020</copyright>
-    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://uniquedivine.blog/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Crohnos.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reddit Dissection</title>
-      <link>https://uniquedivine.blog/projects/reddit-dump-notes/</link>
+      <link>https://Crohnos.github.io/projects/reddit-dump-notes/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://uniquedivine.blog/projects/reddit-dump-notes/</guid>
+      <guid>https://Crohnos.github.io/projects/reddit-dump-notes/</guid>
       <description>The following is a dissection of a script that iterates through a large .zst file that contains .json data import zstandard import os import json import sys import csv from datetime import datetime import logging.handlers zstandard  The module &amp;ldquo;zstandard&amp;rdquo; handles files compressed into .zst format  os  &amp;ldquo;os&amp;rdquo; is a built-in module that allows python to manipulate functions involving the operating system  json  This is a built-in module that allows the manipulation of json files  sys  Built-in module that allows the Python file to write directly to the command line  csv  Module allowing the creation and manipulation of csv files  logging.</description>
     </item>
     
